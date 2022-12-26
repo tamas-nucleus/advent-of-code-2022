@@ -15,15 +15,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day5SupplyStacks", "Day5Sup
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day6TuningTrouble", "Day6TuningTrouble\Day6TuningTrouble.csproj", "{80F74FFC-9E20-403C-B8BB-102E7FE06696}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7NoSpaceLeftOnDevice", "Day7NoSpaceLeftOnDevice\Day7NoSpaceLeftOnDevice.csproj", "{BB8F227C-D0CA-4D43-99D6-C41450CC6C59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day7NoSpaceLeftOnDevice", "Day7NoSpaceLeftOnDevice\Day7NoSpaceLeftOnDevice.csproj", "{BB8F227C-D0CA-4D43-99D6-C41450CC6C59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day8TreetopTreeHouse", "Day8TreetopTreeHouse\Day8TreetopTreeHouse.csproj", "{BBCDF05C-B169-4C24-B543-F8AE228105E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day8TreetopTreeHouse", "Day8TreetopTreeHouse\Day8TreetopTreeHouse.csproj", "{BBCDF05C-B169-4C24-B543-F8AE228105E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day9RopeBridge", "Day9RopeBridge\Day9RopeBridge.csproj", "{DB979D74-D0D7-45F9-A350-E3DF922210D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day9RopeBridge", "Day9RopeBridge\Day9RopeBridge.csproj", "{DB979D74-D0D7-45F9-A350-E3DF922210D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day10CathodeRayTube", "Day10CathodeRayTube\Day10CathodeRayTube.csproj", "{276425A3-55B7-4405-A35B-BA2403A93D8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day10CathodeRayTube", "Day10CathodeRayTube\Day10CathodeRayTube.csproj", "{276425A3-55B7-4405-A35B-BA2403A93D8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day11MonkeyInTheMiddle", "Day11MonkeyInTheMiddle\Day11MonkeyInTheMiddle.csproj", "{56F0EA50-328C-4CFE-80CF-443EC96A93BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day11MonkeyInTheMiddle", "Day11MonkeyInTheMiddle\Day11MonkeyInTheMiddle.csproj", "{56F0EA50-328C-4CFE-80CF-443EC96A93BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day16ProboscideaVolcanium", "Day16ProboscideaVolcanium\Day16ProboscideaVolcanium.csproj", "{F6D8525B-DE06-4EB6-A40C-05C2101366EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{56F0EA50-328C-4CFE-80CF-443EC96A93BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56F0EA50-328C-4CFE-80CF-443EC96A93BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56F0EA50-328C-4CFE-80CF-443EC96A93BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D8525B-DE06-4EB6-A40C-05C2101366EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D8525B-DE06-4EB6-A40C-05C2101366EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D8525B-DE06-4EB6-A40C-05C2101366EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D8525B-DE06-4EB6-A40C-05C2101366EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
