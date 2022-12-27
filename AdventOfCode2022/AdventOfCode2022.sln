@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day13DistressSignal", "Day1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day14RegolithReservoir", "Day14RegolithReservoir\Day14RegolithReservoir.csproj", "{F37AE941-A79E-4565-A68D-58B73396FE2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day15BeaconExclusionZone", "Day15BeaconExclusionZone\Day15BeaconExclusionZone.csproj", "{0BDC85FF-6893-45F8-8932-218075887E65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{F37AE941-A79E-4565-A68D-58B73396FE2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F37AE941-A79E-4565-A68D-58B73396FE2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F37AE941-A79E-4565-A68D-58B73396FE2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BDC85FF-6893-45F8-8932-218075887E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BDC85FF-6893-45F8-8932-218075887E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BDC85FF-6893-45F8-8932-218075887E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BDC85FF-6893-45F8-8932-218075887E65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
